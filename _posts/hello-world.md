@@ -1,6 +1,6 @@
 ---
-title: Hello World!
-date: 2023-11-14 10:00:00 -500
+title: Hello World
+date: 2023-11-14 10:00:00
 categories: [devjourney,programming]
 tags: [vsc,js,c#,c++] # TAG names should always be lowercase
 ---
